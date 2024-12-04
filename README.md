@@ -1,5 +1,4 @@
 #Password Management Script
-
 Password Management Script
 Description
 This Python script is a simple password management tool. It allows users to securely view stored account details, add new accounts, and modify existing ones. It uses a pin-based authentication system for extra security.
